@@ -17,4 +17,3 @@ Este es un tutorial para crear modelos de ML y IA de forma introductoria entre l
 * Convolutional Neural Network 
 * Recurrent Neural Network 
 * Clustering o modelos no supervisados
->>>>>>> 7236972 (Add the code models)
